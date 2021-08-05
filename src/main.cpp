@@ -1,6 +1,12 @@
-#include "src/start.h"
+#include <iostream>
 
-int main(void){
-    init_window();
-    return 0;
-}
+#include "maths/maths.h"
+#include "physics/physics.h"
+#include "rendering/render.h"
+
+#include "interface/start.h"
+
+
+/* Setting up the project */
+
+
